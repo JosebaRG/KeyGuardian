@@ -10,3 +10,7 @@
 # Ignore this hidden directorys
 .ignore
 .trash
+
+# Ignore executables
+exe
+*.bin
